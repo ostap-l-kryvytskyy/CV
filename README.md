@@ -1,1 +1,1 @@
-2025 (c) Sole Practitioner Ostap L Kryvytskyy
+2026 (c) Ostap L Kryvytskyy
